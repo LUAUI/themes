@@ -1,0 +1,57 @@
+return {
+    DarkRose = {
+        Name = "DarkRose",
+        Accent = "#f43f5e",         -- rose-500
+        Dialog = "#18181b",         -- dark base
+        Outline = "#ffe4e6",        -- rose-100
+        Text = "#ffe4e6",
+        Placeholder = "#999999",    -- dark placeholder
+        Background = "#101010",     -- dark background
+        Button = "#e11d48",         -- rose-600
+        Icon = "#fecdd3",           -- rose-200
+    },
+    SkyEmerald = {
+        Name = "SkyEmerald",
+        Accent = "#0ea5e9",         -- sky-500
+        Dialog = "#064e3b",         -- emerald-900
+        Outline = "#d1fae5",        -- emerald-100
+        Text = "#e0f2fe",           -- sky-100
+        Placeholder = "#7dd3fc",    -- sky-300
+        Background = "#075985",     -- sky-900
+        Button = "#10b981",         -- emerald-500
+        Icon = "#a7f3d0",           -- emerald-200
+    },
+    VioletAmber = {
+        Name = "VioletAmber",
+        Accent = "#8b5cf6",         -- violet-500
+        Dialog = "#78350f",         -- amber-900
+        Outline = "#fef3c7",        -- amber-100
+        Text = "#ede9fe",           -- violet-100
+        Placeholder = "#c4b5fd",    -- violet-300
+        Background = "#4c1d95",     -- violet-900
+        Button = "#f59e0b",         -- amber-500
+        Icon = "#fde68a",           -- amber-200
+    },
+    IndigoPlant = {
+        Name = "IndigoPlant",
+        Accent = "#6366f1",         -- indigo-500
+        Dialog = "#14532d",         -- plant background
+        Outline = "#dcfce7",        -- green-100
+        Text = "#e0e7ff",           -- indigo-100
+        Placeholder = "#bbf7d0",    -- green-200
+        Background = "#312e81",     -- indigo-900
+        Button = "#22c55e",         -- green-500
+        Icon = "#86efac",           -- green-300
+    },
+    RedSky = {
+        Name = "RedSky",
+        Accent = "#ef4444",         -- red-500
+        Dialog = "#075985",         -- sky-900
+        Outline = "#e0f2fe",        -- sky-100
+        Text = "#ffe4e6",           -- red-100
+        Placeholder = "#7dd3fc",    -- sky-300
+        Background = "#7f1d1d",     -- red-900
+        Button = "#0ea5e9",         -- sky-500
+        Icon = "#bae6fd",           -- sky-200
+    },
+}
